@@ -1,0 +1,67 @@
+body {
+  background-color: #A9E4EF;
+  font-size: 20px;
+  line-height: ;
+}
+
+h1  {
+  font-size: 40px;
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+}
+
+h2  {
+  font-size: 20px;
+  color: green;
+  font-family: Helvetica, sans-serif;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.avatar {
+  width: 140px;
+  height: 150px;
+  border-radius: 50%
+}
+
+p {
+  font-family: Arial, sans-serif;
+}
+
+.link {
+  color: purple;
+  font-family: Tahoma;
+  font-weight: 20;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+#maincard {
+  background: white;
+  padding: 50px;
+  margin: 40px;
+  text-align: center;
+  border: 1px solid lightgrey
+  border-radius: 4px;                        /* Small radius */
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);    /* Light shadow */
+}
+
+#smallcard {
+   background: white;
+  padding: 24px;
+  margin: 40px;
+  text-align: center;
+  justify-content: space-around;
+  border: 1px solid lightgrey
+  border-radius: 4px;                        /* Small radius */
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);    /* Light shadow */
+}
+
+i {
+  padding: 0 10px;
+}
